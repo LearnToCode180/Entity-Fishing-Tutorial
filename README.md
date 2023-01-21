@@ -1,6 +1,6 @@
 # Entity-Fishing-Tutorial
 
-In this [tutorial]() I'm gonna show you how to use the Entity Fishing tool from a [Client API](https://github.com/issa-project/entity-fishing-client-python) in Python to link your text mentions with the Wikidata knowledge base, as well as how to retreive data that you need and which contains a valid Wikidata link.
+In this [tutorial](https://www.youtube.com/watch?v=NDzkSqakTSw) I'm gonna show you how to use the Entity Fishing tool from a [Client API](https://github.com/issa-project/entity-fishing-client-python) in Python to link your text mentions with the Wikidata knowledge base, as well as how to retreive data that you need and which contains a valid Wikidata link.
 
 You'll find in the next sections, some useful informations about these the three fundemental concepts used in this project.
 
